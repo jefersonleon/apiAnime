@@ -1,0 +1,11 @@
+#anime-info{
+    margin: 20px auto;
+    margin-bottom: 10px;
+    width: 90vw;
+    height: auto;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
